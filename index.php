@@ -27,11 +27,11 @@
             			<h3>Cab's Bistro</h3>
             		</div>
             </li>
-            <li><span>Image 02</span><div><h3>A Friendly</h3></div></li>
-            <li><span>Image 03</span><div><h3>Contemporary</h3></div></li>
-            <li><span>Image 04</span><div><h3>Neighborhood Restaurant</h3></div></li>
-            <li><span>Image 05</span><div><h3>With a Casual Atmospere</h3></div></li>
-            <li><span>Image 06</span><div><h3>& Great Food!</h3></div></li>
+            <li><span>Image 02</span><div><h3></h3></div></li>
+            <li><span>Image 03</span><div><h3></h3></div></li>
+            <li><span>Image 04</span><div><h3></h3></div></li>
+            <li><span>Image 05</span><div><h3></h3></div></li>
+            <li><span>Image 06</span><div><h3></h3></div></li>
         </ul>
         <div class="container">
             

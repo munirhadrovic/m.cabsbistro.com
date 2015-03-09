@@ -92,7 +92,7 @@
 		    <h1><img src="img/logo.png" alt="LOGO"></h1>
 		</div>
 		<div data-role="footer" data-theme="<?php echo $theme ?>" data-position="fixed">
-		    <h1>Mobile Site<a href="http://marketrivals.com" rel="external">  Clasic Site</a></h1>
+		    <h1>Mobile Site | <a href="http://cabsbistro.com/" rel="external">Classic Site</a></h1>
 		</div>
 <!-- page 1 ///////////////////////////////////////////////////////////////////////////////////////////////////////////////////-->
 		<div data-role="page" id="page1" data-theme="<?php echo $theme ?>">
@@ -269,8 +269,12 @@
 					<section id="navigation-menu">
 						<ul id="menu">
 							<li><a href="#page1" data-transition="<?php echo $transitionefect ?>">Home</a></li>
-							<li><a href="#page2" data-transition="<?php echo $transitionefect ?>">Seo</a></li>
-							<li><a href="#page2" data-transition="<?php echo $transitionefect ?>">Local SE0</a></li>
+							<li><a href="#page2" data-transition="<?php echo $transitionefect ?>">About Us</a></li>
+							<li><a href="#page2" data-transition="<?php echo $transitionefect ?>">Food</a></li>
+							<li><a href="#page2" data-transition="<?php echo $transitionefect ?>">Upcoming Events</a></li>
+							<li><a href="#page2" data-transition="<?php echo $transitionefect ?>">Reservations</a></li>
+							<li><a href="#page2" data-transition="<?php echo $transitionefect ?>">Gift Certificates</a></li>
+							<li><a href="#page2" data-transition="<?php echo $transitionefect ?>">Office Hours</a></li>
 							<li><a href="#contcatform" data-transition="<?php echo $transitionefect ?>">Contact us</a></li>
 						</ul>
 					</section>
